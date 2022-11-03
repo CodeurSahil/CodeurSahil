@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SahilSaini2003
 - 👀 I’m interested in Coding
 - 🌱 I’m from India.
-- We can do any idea You Have.
+- We can Implement any idea You Have.
 - Full Privacy.
 - www.linkedin.com/in/sahil-saini-480926252 
 
