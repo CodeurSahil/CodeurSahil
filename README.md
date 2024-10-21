@@ -1,7 +1,4 @@
 # 💫 About Me:
-<table> <tr> <td><strong>Name</strong></td> <td><code>🚀 Sahil Saini</code></td> </tr> <tr> <td><strong>Location</strong></td> <td><code>📍 Jaipur, Rajasthan, India</code></td> </tr> <tr> <td><strong>Degree</strong></td> <td><code>🎓 B.Tech in Computer Science</code></td> </tr> <tr> <td><strong>Hobbies</strong></td> <td><code>💻 Coding, 📖 Learning, 🏏 Cricket, ⚽ Football</code></td> </tr> <tr> <td><strong>Skills</strong></td> <td><code>🟢 Node.js, ⚛️ React, 📱 React Native, 🔗 Loopback</code></td> </tr> </table>
-
-function ``name()`` {<br>return ```"🚀 Sahil Saini"```;<br>}<br><br>def place():<br>    print("📍 Jaipur, Rajasthan, India");<br><br>public void currentlyPursuing() {<br>    System.out.print("🎓 B.Tech in Computer Science");<br>}<br><br>def hobbies():<br>    return "💻 Coding, 📖 Learning, 🏏 Cricket, ⚽ Football";<br><br>function skills() {<br>    return "🟢 Node.js, ⚛️ React, 📱 React Native, 🔗 Loopback";<br>}
 
 ```
 function name() {
